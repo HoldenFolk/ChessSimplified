@@ -1,7 +1,7 @@
 # ChessSimplified
 A chess project for and intro to java programming course!
 
-# #Goal of project: 
+## Goal of project: 
 To exemplify the use cases of oop in java through a chess game! Use of inheritance, overloading, overriding, etc are explored.
 
 ## How to run game?
